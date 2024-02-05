@@ -24,6 +24,4 @@
     <a href="https://twitter.com/XiMatriarx" target="_blank"><img alt="X" src="https://img.shields.io/badge/-X-404040?style=flat&logo=X"></a>
 </p>
 
-<p align="center">
-    [![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=XiMatriarx&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=XiMatriarx&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
