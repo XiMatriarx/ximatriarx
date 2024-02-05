@@ -10,12 +10,12 @@
 </p>
 
 <p align="center">
-    <a href="https://patreon.com/XiMatriarx" target="_blank"><img alt="Patreon" src="https://img.shields.io/badge/-Patreon-404040?style=flat&logo=Patreon"></a>
-</p>
-
-<p align="center">
     <a href="https://discord.gg/XiMatriarx" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-Discord-404040?style=flat&logo=Discord"></a>
     <a href="https://www.reddit.com/r/XiMatriarx" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/-Reddit-404040?style=flat&logo=Reddit"></a>
     <a href="https://linkedin.com/in/XiMatriarx" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-404040?style=flat&logo=LinkedIn"></a>
-    <a href="https://twitter.com/XiMatriarx<img alt="Twitter" src="https://img.shields.io/badge/-Twitter-404040?style=flat&logo=Twitter"></a>
+    <a href="https://twitter.com/XiMatriarx" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-404040?style=flat&logo=Twitter"></a>
+</p>
+
+<p align="center">
+    <a href="https://patreon.com/XiMatriarx" target="_blank"><img alt="Patreon" src="https://img.shields.io/badge/-Patreon-404040?style=flat&logo=Patreon"></a>
 </p>
