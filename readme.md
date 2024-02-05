@@ -1,5 +1,5 @@
 # ✨🧚🏻‍♀️🪄✨ Xi Matriarx  💕🦄🌈🏰
 
 <p align="center">
-    ![Xi Matriarx](fractal.gif)
+    ![Xi Matriarx](https://github.com/XiMatriarx/ximatriarx/fractal.gif)
 </p>
