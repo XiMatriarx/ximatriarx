@@ -21,5 +21,5 @@
 </p>
 
 <p align="center">
-    <a href="https://discord.gg/XiMatriarx" target="_blank"><img alt="Chat" src="https://img.shields.io/discord/XiMatriarx?style=flat&logo=Discord"></a>
+    <a href="https://discord.gg/XiMatriarx" target="_blank"><img alt="Chat" src="https://img.shields.io/discord/XiMatriarx?style=flat&logo=Discord&labelColor=404040&color=404040"></a>
 </p>
