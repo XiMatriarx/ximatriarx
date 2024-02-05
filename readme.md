@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/xi%40ximatriarx.io-404040?style=flat&link=mailto%3Axi%40ximatriarx.io" alt="Email">
-    <img src="https://img.shields.io/badge/-Telegram-404040?style=flat&logo=Telegram&link=https%3A%2Ft.me%2Fximatriarx.io" alt="Telegram">
+    <a href="mailto:xi@ximatriarx.io"><img src="https://img.shields.io/badge/xi%40ximatriarx.io-404040?style=flat" alt="Email"></a>
+    <a href="https://t.me/ximatriarx"><img src="https://img.shields.io/badge/-Telegram-404040?style=flat&logo=Telegram" alt="Telegram"></a>
 </p>
 
 <p align="center">
