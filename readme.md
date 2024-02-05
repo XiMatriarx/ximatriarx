@@ -7,6 +7,9 @@
 <p align="center">
     <a href="mailto:xi@ximatriarx.io"><img src="https://img.shields.io/badge/xi%40ximatriarx.io-404040?style=flat" alt="Email"></a>
     <a href="https://t.me/ximatriarx"><img src="https://img.shields.io/badge/-Telegram-404040?style=flat&logo=Telegram" alt="Telegram"></a>
+</p>
+
+<p align="center">
     <a href="https://patreon.com/XiMatriarx" target="_blank"><img src="https://img.shields.io/badge/-Patreon-404040?style=flat&logo=Patreon" alt="Patreon"></a>
 </p>
 
