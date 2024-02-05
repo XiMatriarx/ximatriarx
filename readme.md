@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-    ![Email](https://img.shields.io/badge/xi%40ximatriarx.io-404040?style=flat&link=mailto%3Axi%40ximatriarx.io)
+    <img alt="Email" src="https://img.shields.io/badge/xi%40ximatriarx.io-404040?style=flat&link=mailto%3Axi%40ximatriarx.io">
 </p>
