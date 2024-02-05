@@ -25,5 +25,5 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=XiMatriarx&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&theme=transparent&title_color=ff00ff&text_color=808080&icon_color=ff00ff&border_color=808080&border_radius=8" alt="GitHub Statistics">
+    <img src="https://github-readme-stats.vercel.app/api?username=XiMatriarx&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_title=true&hide_border=true&theme=transparent&title_color=ff00ff&text_color=808080&icon_color=ff00ff&border_color=808080&border_radius=8" alt="GitHub Statistics">
 </p>
