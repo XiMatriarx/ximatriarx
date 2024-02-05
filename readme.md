@@ -23,3 +23,5 @@
     <a href="https://linkedin.com/in/XiMatriarx" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-404040?style=flat&logo=LinkedIn"></a>
     <a href="https://twitter.com/XiMatriarx" target="_blank"><img alt="X" src="https://img.shields.io/badge/-X-404040?style=flat&logo=X"></a>
 </p>
+
+[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=XiMatriarx)](https://github.com/anuraghazra/github-readme-stats)
