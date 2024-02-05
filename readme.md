@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    <img alt="Patreon" src="https://img.shields.io/badge/-Patreon-404040?style=flat&logo=Patreon&link=https://patreon.com%2FXiMatriarx">
-    <img alt="Discord" src="https://img.shields.io/badge/-Discord-404040?style=flat&logo=Discord&link=https%3A%2F%2Fdiscord.gg%2FtTVZb9nejR">
-    <img alt="Reddit" src="https://img.shields.io/badge/-Reddit-404040?style=flat&logo=Reddit&link=https%3A%2F%2Fwww.reddit.com%2Fr%2FXiMatriarx%2F">
+    <a href="https://patreon.com/XiMatriarx"><img alt="Patreon" src="https://img.shields.io/badge/-Patreon-404040?style=flat&logo=Patreon"></a>
+    <a href="https://discord.gg/tTVZb9nejR"><img alt="Discord" src="https://img.shields.io/badge/-Discord-404040?style=flat&logo=Discord"></a>
+    <a href="https://www.reddit.com/r/XiMatriarx/"><img alt="Reddit" src="https://img.shields.io/badge/-Reddit-404040?style=flat&logo=Reddit"></a>
 </p>
