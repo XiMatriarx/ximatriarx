@@ -27,10 +27,3 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiMatriarx&size_weight=1&count_weight=0&langs_count=10&layout=donut&hide_title=true&hide_border=true&theme=transparent&title_color=ff00ff&text_color=808080&border_color=808080&border_radius=8" alt="Languages">
 </p>
-
-<p align="center">
-    <image src="https://img.shields.io/github/commit-activity/w/XiMatriarx/ximatriarx?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Week)">
-    <image src="https://img.shields.io/github/commit-activity/m/XiMatriarx/ximatriarx?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Month)">
-    <image src="https://img.shields.io/github/commit-activity/y/XiMatriarx/ximatriarx?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Year)">
-    <image src="https://img.shields.io/github/commit-activity/t/XiMatriarx/ximatriarx?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Total)">
-</p>
