@@ -1,15 +1,15 @@
-name: Continuous Deployment
-run-name: Continuous Deployment
+name: Release
+run-name: Release
 on:
   push:
     branches:
       - matrix
-    tags_ignore:
+    tags:
       - v*
   pull_request:
     branches:
       - matrix
-    tags_ignore:
+    tags:
       - v*
 jobs:
   build:
