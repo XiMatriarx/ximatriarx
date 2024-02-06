@@ -7,11 +7,11 @@
 
 <p align="center">
     <img src="https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fgithub.com%2FXiMatriarx%2Fximatriarx%2Fblob%2Fmatrix%2Freadme.md&style=flat&label=W3C&labelColor=404040&color=c000c0" alt="W3C">
-    <img src="https://img.shields.io/github/actions/workflow/status/XiMatriarx/ximatriarx/cron?style=flat&label=CronCI&labelColor=404040&color=c000c0" alt="Cron">
+    <img src="https://img.shields.io/github/actions/workflow/status/XiMatriarx/ximatriarx/cron?style=flat&label=Cron&labelColor=404040&color=c000c0" alt="Cron">
     <img src="https://img.shields.io/github/actions/workflow/status/XiMatriarx/ximatriarx/ci?style=flat&label=CI&labelColor=404040&color=c000c0" alt="CI">
     <img src="https://img.shields.io/github/actions/workflow/status/XiMatriarx/ximatriarx/cd?style=flat&label=CD&labelColor=404040&color=c000c0" alt="CD">
-    <img src="https://img.shields.io/website?url=https%3A%2F%2Fximatriarx.io&up_message=Up&up_color=c000c0&down_message=Down&down_color=00c0c0&style=flat&label=Website&labelColor=404040" alt="Website">
     <img src="https://img.shields.io/github/actions/workflow/status/XiMatriarx/ximatriarx/release?style=flat&label=Release&labelColor=404040&color=c000c0" alt="Release">
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Fximatriarx.io&up_message=Up&up_color=c000c0&down_message=Down&down_color=00c0c0&style=flat&label=Website&labelColor=404040" alt="Website">
 </p>
 
 <p align="center">
