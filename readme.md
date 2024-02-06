@@ -1,29 +1,23 @@
 <h1 align="center">✨🧚🏻‍♀️🪄✨ XiMatriarx 💕🦄🌈🏰</h1>
 
 <p align="center">
-    <img src="https://img.shields.io/github/commit-activity/w/XiMatriarx/ximatriarx?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Week)">
-    <img src="https://img.shields.io/github/commit-activity/m/XiMatriarx/ximatriarx?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Month)">
-    <img src="https://img.shields.io/github/commit-activity/y/XiMatriarx/ximatriarx?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Year)">
-    <img src="https://img.shields.io/github/commit-activity/t/XiMatriarx/ximatriarx?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Total)">
+    <img src="https://img.shields.io/github/stars/XiMatriarx/ximatriarx?style=flat&label=Stars&labelColor=404040&color=c000c0" alt="Stars">
+    <img src="https://img.shields.io/github/watchers/XiMatriarx/ximatriarx?style=flat&label=Watchers&labelColor=404040&color=c000c0" alt="Watchers">
+    <img src="https://img.shields.io/badge/License-MIT-404040?style=flat&label=License&labelColor=404040&color=c000c0" alt="License">
+    <img src="https://img.shields.io/badge/Versioning-SemVer-404040?label=Versioning&labelColor=404040&color=c000c0" alt="Versioning">
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/github/release-date/XiMatriarx/ximatriarx?style=flat&label=Release%20Date&labelColor=404040&color=c000c0" alt="Release Date">
-    <img src="https://img.shields.io/github/commits-since/XiMatriarx/ximatriarx/latest?sort=semver&style=flat&label=Release%20Commits&labelColor=404040&color=c000c0" alt="Release Commits">
-    <img src="https://img.shields.io/github/stars/XiMatriarx/ximatriarx?style=flat&label=Stars&labelColor=404040&color=c000c0" alt="Stars">
-    <img src="https://img.shields.io/github/watchers/XiMatriarx/ximatriarx?style=flat&label=Watchers&labelColor=404040&color=c000c0" alt="Watchers">
     <img src="https://img.shields.io/github/v/release/XiMatriarx/ximatriarx?sort=semver&style=flat&label=Release&labelColor=404040&color=c000c0" alt="Release">
+    <img src="https://img.shields.io/github/release-date/XiMatriarx/ximatriarx?style=flat&label=Release%20Date&labelColor=404040&color=c000c0" alt="Release Date">
     <img src="https://img.shields.io/github/v/tag/XiMatriarx/ximatriarx?sort=semver&style=flat&label=Tag&labelColor=404040&color=c000c0" alt="Tag">
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/github/languages/count/XiMatriarx/ximatriarx?style=flat&label=Languages&labelColor=404040&color=c000c0" alt="Languages">
-    <img src="https://img.shields.io/github/languages/top/XiMatriarx/ximatriarx?style=flat&label=Top%20Language&labelColor=404040&color=c000c0" alt="Top Language">
-</p>
-
-<p align="center">
     <img src="https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fgithub.com%2FXiMatriarx%2Fximatriarx%2Fblob%2Fmatrix%2Freadme.md&style=flat&label=W3C&labelColor=404040&color=c000c0" alt="W3C">
-    <img src="https://img.shields.io/github/downloads/XiMatriarx/ximatriarx/total?style=flat&label=Downloads&labelColor=404040&color=c000c0" alt="Downloads">
+    <img src="https://img.shields.io/github/actions/workflow/status/XiMatriarx/ximatriarx/ci?style=flat&label=CI&labelColor=404040&color=c000c0" alt="CI">
+    <img src="https://img.shields.io/github/actions/workflow/status/XiMatriarx/ximatriarx/cd?style=flat&label=CD&labelColor=404040&color=c000c0" alt="CD">
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Fximatriarx.io&up_message=Up&up_color=c000c0&down_message=Down&down_color=00c0c0&style=flat&label=Website&labelColor=404040" alt="Website">
 </p>
 
 <p align="center">
@@ -35,18 +29,24 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/github/actions/workflow/status/XiMatriarx/ximatriarx/ci?style=flat&label=CI&labelColor=404040&color=c000c0" alt="CI">
-    <img src="https://img.shields.io/github/actions/workflow/status/XiMatriarx/ximatriarx/cd?style=flat&label=CD&labelColor=404040&color=c000c0" alt="CD">
+    <img src="https://img.shields.io/github/languages/count/XiMatriarx/ximatriarx?style=flat&label=Languages&labelColor=404040&color=c000c0" alt="Languages">
+    <img src="https://img.shields.io/github/languages/top/XiMatriarx/ximatriarx?style=flat&label=Top%20Language&labelColor=404040&color=c000c0" alt="Top Language">
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/License-MIT-404040?style=flat&label=License&labelColor=404040&color=c000c0" alt="License">
-    <img src="https://img.shields.io/badge/Versioning-SemVer-404040?label=Versioning&labelColor=404040&color=c000c0" alt="Versioning">
+    <img src="https://img.shields.io/github/commits-since/XiMatriarx/ximatriarx/latest?sort=semver&style=flat&label=Release%20Commits&labelColor=404040&color=c000c0" alt="Release Commits">
+    <img src="https://img.shields.io/github/commit-activity/w/XiMatriarx/ximatriarx?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Week)">
+    <img src="https://img.shields.io/github/commit-activity/m/XiMatriarx/ximatriarx?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Month)">
+    <img src="https://img.shields.io/github/commit-activity/y/XiMatriarx/ximatriarx?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Year)">
+    <img src="https://img.shields.io/github/commit-activity/t/XiMatriarx/ximatriarx?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Total)">
+</p>
+
+<p align="center">
     <img src="https://img.shields.io/github/directory-file-count/XiMatriarx/ximatriarx?type=dir&style=flat&label=Directories&labelColor=404040&color=c000c0" alt="Directories">
     <img src="https://img.shields.io/github/directory-file-count/XiMatriarx/ximatriarx?type=file&style=flat&label=Directories&labelColor=404040&color=c000c0" alt="Files">
     <img src="https://img.shields.io/github/repo-size/XiMatriarx/ximatriarx?style=flat&label=Size&labelColor=404040&color=c000c0" alt="Size">
     <img src="https://img.shields.io/github/languages/code-size/XiMatriarx/ximatriarx?style=flat&label=Code%20Size&labelColor=404040&color=c000c0" alt="Code Size">
-    <img src="https://img.shields.io/website?url=https%3A%2F%2Fximatriarx.io&up_message=Up&up_color=c000c0&down_message=Down&down_color=00c0c0&style=flat&label=Website&labelColor=404040" alt="Website">
+    <img src="https://img.shields.io/github/downloads/XiMatriarx/ximatriarx/total?style=flat&label=Downloads&labelColor=404040&color=c000c0" alt="Downloads">
 </p>
 
 <h1 align="center">✨🧚🏻‍♀️🪄✨ Xi Matriarx 💕🦄🌈🏰</h1>
