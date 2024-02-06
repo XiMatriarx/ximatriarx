@@ -15,7 +15,7 @@
 <p align="center">
     <img src="https://img.shields.io/github/issues-raw/XiMatriarx/ximatriarx?style=flat&label=Issues&labelColor=404040&color=c000c0" alt="Issues">
     <img src="https://img.shields.io/github/issues-closed-raw/XiMatriarx/ximatriarx?style=flat&label=Issues%20Closed&labelColor=404040&color=c000c0" alt="Issues Closed">
-    <img src="https://img.shields.io/github/issues-pr-raw/XiMatriarx/ximatriarx?style=flat&label=Pull%20Requests%20Open&labelColor=404040&color=c000c0" alt="Pull Requests">
+    <img src="https://img.shields.io/github/issues-pr-raw/XiMatriarx/ximatriarx?style=flat&label=Pull%20Requests&labelColor=404040&color=c000c0" alt="Pull Requests">
     <img src="https://img.shields.io/github/issues-pr-closed-raw/XiMatriarx/ximatriarx?label=Pull%20Requests%20Closed&labelColor=404040&color=c000c0" alt="Pull Requests Closed">
     <img src="https://img.shields.io/github/discussions/XiMatriarx/ximatriarx?style=flat&label=Discussions&labelColor=404040&color=c000c0" alt="Discussions">
 </p>
