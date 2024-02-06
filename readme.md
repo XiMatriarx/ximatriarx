@@ -43,7 +43,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/github/directory-file-count/XiMatriarx/ximatriarx?type=dir&style=flat&label=Directories&labelColor=404040&color=c000c0" alt="Directories">
-    <img src="https://img.shields.io/github/directory-file-count/XiMatriarx/ximatriarx?type=file&style=flat&label=Directories&labelColor=404040&color=c000c0" alt="Files">
+    <img src="https://img.shields.io/github/directory-file-count/XiMatriarx/ximatriarx?type=file&style=flat&label=Files&labelColor=404040&color=c000c0" alt="Files">
     <img src="https://img.shields.io/github/repo-size/XiMatriarx/ximatriarx?style=flat&label=Size&labelColor=404040&color=c000c0" alt="Size">
     <img src="https://img.shields.io/github/languages/code-size/XiMatriarx/ximatriarx?style=flat&label=Code%20Size&labelColor=404040&color=c000c0" alt="Code Size">
     <img src="https://img.shields.io/github/downloads/XiMatriarx/ximatriarx/total?style=flat&label=Downloads&labelColor=404040&color=c000c0" alt="Downloads">
