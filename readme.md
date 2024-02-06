@@ -48,8 +48,8 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/License-MIT-404040?style=flat&label=License&labelColor=404040&color=c000c0" alt="License">
     <img src="https://img.shields.io/badge/Versioning-SemVer-404040?label=Versioning&labelColor=404040&color=c000c0" alt="Versioning">
+    <img src="https://img.shields.io/badge/License-MIT-404040?style=flat&label=License&labelColor=404040&color=c000c0" alt="License">
 </p>
 
 <h1 align="center">✨🧚🏻‍♀️🪄✨ Xi Matriarx 💕🦄🌈🏰</h1>
