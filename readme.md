@@ -34,11 +34,11 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/github/commits-since/XiMatriarx/ximatriarx/latest?sort=semver&style=flat&label=Release%20Commits&labelColor=404040&color=c000c0" alt="Release Commits">
-    <img src="https://img.shields.io/github/commit-activity/w/XiMatriarx/ximatriarx?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Week)">
-    <img src="https://img.shields.io/github/commit-activity/m/XiMatriarx/ximatriarx?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Month)">
-    <img src="https://img.shields.io/github/commit-activity/y/XiMatriarx/ximatriarx?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Year)">
     <img src="https://img.shields.io/github/commit-activity/t/XiMatriarx/ximatriarx?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Total)">
+    <img src="https://img.shields.io/github/commit-activity/y/XiMatriarx/ximatriarx?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Year)">
+    <img src="https://img.shields.io/github/commit-activity/m/XiMatriarx/ximatriarx?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Month)">
+    <img src="https://img.shields.io/github/commit-activity/w/XiMatriarx/ximatriarx?style=flat&label=Commits&labelColor=404040&color=c000c0" alt="Commits (Week)">
+    <img src="https://img.shields.io/github/commits-since/XiMatriarx/ximatriarx/latest?sort=semver&style=flat&label=Release%20Commits&labelColor=404040&color=c000c0" alt="Release Commits">
 </p>
 
 <p align="center">
