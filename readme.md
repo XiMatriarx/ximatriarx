@@ -3,14 +3,6 @@
 <p align="center">
     <img src="https://img.shields.io/github/stars/XiMatriarx/ximatriarx?style=flat&label=Stars&labelColor=404040&color=c000c0" alt="Stars">
     <img src="https://img.shields.io/github/watchers/XiMatriarx/ximatriarx?style=flat&label=Watchers&labelColor=404040&color=c000c0" alt="Watchers">
-    <img src="https://img.shields.io/badge/License-MIT-404040?style=flat&label=License&labelColor=404040&color=c000c0" alt="License">
-    <img src="https://img.shields.io/badge/Versioning-SemVer-404040?label=Versioning&labelColor=404040&color=c000c0" alt="Versioning">
-</p>
-
-<p align="center">
-    <img src="https://img.shields.io/github/v/release/XiMatriarx/ximatriarx?sort=semver&style=flat&label=Release&labelColor=404040&color=c000c0" alt="Release">
-    <img src="https://img.shields.io/github/release-date/XiMatriarx/ximatriarx?style=flat&label=Release%20Date&labelColor=404040&color=c000c0" alt="Release Date">
-    <img src="https://img.shields.io/github/v/tag/XiMatriarx/ximatriarx?sort=semver&style=flat&label=Tag&labelColor=404040&color=c000c0" alt="Tag">
 </p>
 
 <p align="center">
@@ -26,6 +18,12 @@
     <img src="https://img.shields.io/github/issues-pr-raw/XiMatriarx/ximatriarx?style=flat&label=Pull%20Requests%20Open&labelColor=404040&color=c000c0" alt="Pull Requests">
     <img src="https://img.shields.io/github/issues-pr-closed-raw/XiMatriarx/ximatriarx?label=Pull%20Requests%20Closed&labelColor=404040&color=c000c0" alt="Pull Requests Closed">
     <img src="https://img.shields.io/github/discussions/XiMatriarx/ximatriarx?style=flat&label=Discussions&labelColor=404040&color=c000c0" alt="Discussions">
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/github/v/release/XiMatriarx/ximatriarx?sort=semver&style=flat&label=Release&labelColor=404040&color=c000c0" alt="Release">
+    <img src="https://img.shields.io/github/release-date/XiMatriarx/ximatriarx?style=flat&label=Release%20Date&labelColor=404040&color=c000c0" alt="Release Date">
+    <img src="https://img.shields.io/github/v/tag/XiMatriarx/ximatriarx?sort=semver&style=flat&label=Tag&labelColor=404040&color=c000c0" alt="Tag">
 </p>
 
 <p align="center">
@@ -47,6 +45,11 @@
     <img src="https://img.shields.io/github/repo-size/XiMatriarx/ximatriarx?style=flat&label=Size&labelColor=404040&color=c000c0" alt="Size">
     <img src="https://img.shields.io/github/languages/code-size/XiMatriarx/ximatriarx?style=flat&label=Code%20Size&labelColor=404040&color=c000c0" alt="Code Size">
     <img src="https://img.shields.io/github/downloads/XiMatriarx/ximatriarx/total?style=flat&label=Downloads&labelColor=404040&color=c000c0" alt="Downloads">
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/License-MIT-404040?style=flat&label=License&labelColor=404040&color=c000c0" alt="License">
+    <img src="https://img.shields.io/badge/Versioning-SemVer-404040?label=Versioning&labelColor=404040&color=c000c0" alt="Versioning">
 </p>
 
 <h1 align="center">✨🧚🏻‍♀️🪄✨ Xi Matriarx 💕🦄🌈🏰</h1>
