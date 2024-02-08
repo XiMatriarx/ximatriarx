@@ -21,8 +21,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/XiMatriarx?style=flat&label=Stars&labelColor=404040&color=800080" alt="Stars">
-  <img src="https://img.shields.io/github/followers/XiMatriarx?style=flat&label=Followers&labelColor=404040&color=800080" alt="Followers">
+  <img src="https://img.shields.io/github/stars/XiMatriarx?style=flat&logo=GitHub&label=Stars&labelColor=404040&color=800080" alt="Stars">
+  <img src="https://img.shields.io/github/followers/XiMatriarx?style=flat&logo=GitHub&label=Followers&labelColor=404040&color=800080" alt="Followers">
 </p>
 
 <p align="center">
