@@ -23,7 +23,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiMatriarx&size_weight=1&count_weight=0&langs_count=10&layout=donut&hide_title=true&hide_border=true&theme=transparent&title_color=ff00ff&text_color=808080&border_color=808080&border_radius=8" alt="Languages">
 </p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiMatriarx&size_weight=1&count_weight=0&langs_count=10&layout=donut&hide_title=true&hide_border=true&theme=transparent&title_color=ff00ff&text_color=808080&border_color=808080&border_radius=8" alt="Languages">
-</p>
